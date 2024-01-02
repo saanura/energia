@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Bengaluru",
+        "Longitude":"10.111",
+        "Latitude":"10.111",
+        "Temperature":"30 C",
+        "Humidity":"30%"
+
+
+    },
+
+    {
+        "Name":"Bengaluru",
+        "Longitude":"10.111",
+        "Latitude":"10.111",
+        "Temperature":"30 C",
+        "Humidity":"30 %"
+
+
+    }
+
+
+
+
+
+]
